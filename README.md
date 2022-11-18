@@ -3,13 +3,14 @@
 I have used material-ui/core and icons - for different types of icons and design , react-quill for formatting the text of question and answers by the user,
 react-responsive-modal for making the website responsive , react-time-ago and java-script time ago packages to show the exact time of posted questions and answers and html-react-parser to convert HTML diretly into react components.
 
-I have used Firebase authentication (Google and Facebook) for authentication of users.
+### I have used Firebase authentication (Google and Facebook) for authentication of users.
+
 ![Screenshot (137)](https://user-images.githubusercontent.com/77608417/202790265-39599e77-e39e-432e-82a8-e10f4e63062c.png)
 
-Users can add question by click on <h1> ADD QUESTION </h1> button .
+### Users can add question by click on ADD QUESTION button .
 ![Screenshot (139)](https://user-images.githubusercontent.com/77608417/202790865-372b32f9-5faf-46f8-a621-8020e6590b72.png)
 
-Any user can answer the questions as shown 
+### Any user can answer the questions as shown :
 ![Screenshot (140)](https://user-images.githubusercontent.com/77608417/202791938-89e5280e-9729-416a-99df-0ea1e06883de.png)
 
 
