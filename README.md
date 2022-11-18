@@ -1,7 +1,7 @@
 ## This is clone of quora made with MERN stack.
 
 I have used material-ui/core and icons - for different types of icons and design , react-quill for formatting the text of question and answers by the user,
-react-responsive-modal for making the website responsive , react-time-ago and java-script time ago packages to show the exact time of posted questions and answers and html-react-parser to convert HTML diretly into react components.
+react-responsive-modal for making the website responsive , react-time-ago and java-script time ago packages to show the exact time of posted questions and answers and html-react-parser to convert HTML directly into react components.
 
 ### I have used Firebase authentication (Google and Facebook) for authentication of users.
 
